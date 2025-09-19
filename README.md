@@ -1,9 +1,10 @@
-<img src="https://i.imgur.com/4yHNcox.gif">
+<img src="https://i.imgur.com/4yHNcox.gif"/>
 
 <h1 align="center">Assalamu Alaikum, I'm Mahidul Kabir</h1>
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidulkabir" alt="mahidulkabir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidulkabir" alt="mahidulkabir" /></a> </p> 
+<img src="https://i.imgur.com/nSJH0C2.gif" >
 
 - 🌱 I’m currently learning **Frameworks**
 
