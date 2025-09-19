@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidulkabir" alt="mahidulkabir" /></a> </p> 
 <img src="https://i.imgur.com/nSJH0C2.gif" 
-     style="float: left; margin-right: 10px; width: 200px;" 
+     style="float: right; margin-right: 10px; width: 300px;" 
      alt="Gif">
 
 
