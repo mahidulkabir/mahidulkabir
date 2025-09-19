@@ -4,7 +4,10 @@
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidulkabir" alt="mahidulkabir" /></a> </p> 
-<img src="https://i.imgur.com/nSJH0C2.gif" style="float: left; margin-right: 10px;" >
+<img src="https://i.imgur.com/nSJH0C2.gif" 
+     style="float: left; margin-right: 10px; width: 200px;" 
+     alt="Gif">
+
 
 - 🌱 I’m currently learning **Frameworks**
 
