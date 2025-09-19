@@ -1,4 +1,5 @@
-<img src="https://imgur.com/gallery/cover-4YyCs8Q">
+![Alt text]((https://imgur.com/gallery/cover-4YyCs8Q)
+
 <h1 align="center">Assalamu Alaikum, I'm Mahidul Kabir</h1>
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
 
