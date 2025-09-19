@@ -1,4 +1,4 @@
-![Alt text]((https://i.imgur.com/4yHNcox.gif)
+<img src="https://i.imgur.com/4yHNcox.gif">
 
 <h1 align="center">Assalamu Alaikum, I'm Mahidul Kabir</h1>
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
