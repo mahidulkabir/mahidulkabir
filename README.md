@@ -4,21 +4,31 @@
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidulkabir" alt="mahidulkabir" /></a> </p> 
-<img src="https://i.imgur.com/nSJH0C2.gif" 
-     style="float: right; margin-right: 10px; width: 300px;" 
-     alt="Gif">
+<div style="display: flex; justify-content: space-evenly; align-items: center; border: 1px solid #ccc; padding: 20px;">
 
+  <!-- Left side (text) -->
+  <div style="flex: 1; padding: 10px;">
+    🌱 I’m currently learning <b>Frameworks</b><br><br>
 
-- 🌱 I’m currently learning **Frameworks**
+    👨‍💻 All of my projects are available at  
+    <a href="https://mahidulkabir.top" target="_blank">https://mahidulkabir.top</a><br><br>
 
-- 👨‍💻 All of my projects are available at [https://mahidulkabir.top](https://mahidulkabir.top)
+    💬 Ask me about <b>Javascript, React</b><br><br>
 
-- 💬 Ask me about **Javascript, React**
+    📫 How to reach me: <b>mahidulkabir8@gmail.com</b><br><br>
 
-- 📫 How to reach me **mahidulkabir8@gmail.com**
+    ⚡ Fun fact: <b>I think I am worthy.</b>
+  </div>
 
-- ⚡ Fun fact **I think I am worthy.**
+  <!-- Right side (image) -->
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <img src="https://i.imgur.com/nSJH0C2.gif" 
+         alt="Gif"
+         style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahidul-kabir-wdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahidul-kabir-wdev" height="30" width="40" /></a>
