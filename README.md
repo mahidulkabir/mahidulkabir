@@ -18,11 +18,17 @@ As 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎�
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-2F4F4F?style=for-the-badge&logo=elementor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
+
 
 
 
@@ -51,28 +57,16 @@ As 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎�
 
 <hr/>
 
-### 😄 Random Joke
+
 <p align="center">
+ <strong>Let's Have A Laugh </strong>  </br> </br>
   <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Random Joke" />
 </p>
 
 <hr/>
-
-### 📊 Coding Streak Overview
-
-<table align="center">
-<tr>
-  <td align="center">
-    <strong>🔥 Longest Streak</strong><br/>
-    <img src="https://streak-stats.demolab.com?user=mahidulkabir&hide_current_streak=true&card_width=300" height="130">
-  </td>
-
-  <td align="center">
-    <strong>⚡ Current Streak</strong><br/>
-    <img src="https://streak-stats.demolab.com?user=mahidulkabir&hide_longest_streak=true&card_width=300" height="130">
-  </td>
-</tr>
-</table>
+<p align="center" > 
+    <img src="https://streak-stats.vercel.app?user=mahidulkabir&hide_current_streak=true&card_width=450" height="230" alt="Longest Streak" />
+</p>
 
 
 
