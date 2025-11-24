@@ -50,11 +50,30 @@ As 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎�
 </p>
 
 <hr/>
-<h3 align="center">Fun Fact:</h3>
 
+### 😄 Random Joke
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder=false&borderColor=%23e4e2e2&bgColor=%23f9f9f9&textColor=%23000000&qColor=%23009dff&aColor=%23ff4081" alt="Random Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Random Joke" />
 </p>
+
+<hr/>
+
+### 📊 Coding Streak Overview
+
+<table align="center">
+<tr>
+  <td align="center">
+    <strong>🔥 Longest Streak</strong><br/>
+    <img src="https://streak-stats.demolab.com?user=mahidulkabir&hide_current_streak=true&card_width=300" height="130">
+  </td>
+
+  <td align="center">
+    <strong>⚡ Current Streak</strong><br/>
+    <img src="https://streak-stats.demolab.com?user=mahidulkabir&hide_longest_streak=true&card_width=300" height="130">
+  </td>
+</tr>
+</table>
+
 
 
 
