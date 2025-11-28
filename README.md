@@ -55,13 +55,7 @@ As 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎�
 <span style="color:red;">- 𝙳𝚘𝚞𝚐 𝙻𝚒𝚗𝚍𝚎𝚛</span>
 </p>
 
-<hr/>
 
-
-<p align="center">
- <strong>Let's Have A Laugh </strong>  </br> </br>
-  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Random Joke" />
-</p>
 
 <hr/>
 <p align="center" > 
